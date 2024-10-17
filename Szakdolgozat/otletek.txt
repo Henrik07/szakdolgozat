@@ -1,0 +1,17 @@
+ideas of projects that combine FPGA and microcontroller : r/FPGA (reddit.com)
+
+ 
+
+The (long) path to building a digital oscilloscope using an FPGA/SoC [beginner] : r/FPGA (reddit.com)
+
+ 
+
+SillyScope (cornell.edu)
+
+ 
+
+Ideas for interfacing with a Microcontroller? : r/FPGA (reddit.com)
+
+ 
+
+Best microcontrollers for a GUI/smooth graphics? : r/microcontrollers (reddit.com)
